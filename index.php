@@ -8,9 +8,10 @@
 </head>
 
 <body>
-    <?php
-echo 'hi';
-?>
+    <?php 
+    echo 'hi';
+    ?>
+
 </body>
 
 </html>
