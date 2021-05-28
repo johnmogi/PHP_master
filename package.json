@@ -1,0 +1,12 @@
+{
+  "name": "WWW",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "git": "git add . && git commit -m",
+    "postgit": "git push --all"
+  }
+}
