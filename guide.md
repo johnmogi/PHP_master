@@ -20,3 +20,12 @@ https://code.visualstudio.com/docs/languages/php
 }
 
 0. php debug - install ext
+
+cd 	/etc/php7/apache2/php.ini
+code / edit
+zend_extension=path/to/xdebug
+
+retry on normal with php server
+
+paste phpinfo from php.ini >> 
+https://xdebug.org/wizard
